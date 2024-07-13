@@ -1,0 +1,1 @@
+# receipt-app-hackathon-2024
